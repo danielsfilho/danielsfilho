@@ -29,4 +29,3 @@
 <br>
 <br>
 
-![](https://komarev.com/ghpvc/?username=danielsfilho&color=dc143c&style=for-the-badge	)
