@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 👨🏻‍💻 Trabalho como Desenvolvedor Front-end.
+- 👨🏻‍💻 Trabalho como Desenvolvedor Full-Stack.
 - 📜 Atualmente estou estudando JavaScript e React.
 
 <div style="display: inline_block"><br>
