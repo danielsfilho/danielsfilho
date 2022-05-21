@@ -1,7 +1,11 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
 ### Olá 👋
 
-- 👨🏻‍💻 Atuo como Desenvolvedor Full-Stack.
-- 📜 Atualmente estou estudando JavaScript e React.
+- 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Atuo como Desenvolvedor Full-Stack. 
+- 📜 Atualmente estou estudando React.
+- ⚡ Gosto de programar, games, animes e conhecer novas culturas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
